@@ -11,6 +11,8 @@ protobuf==3.20.3
 opentelemetry-api==1.24.0
 opentelemetry-sdk==1.24.0
 opentelemetry-exporter-otlp-proto-grpc==1.24.0
+torch>=2.0.0
+torchvision>=0.15.0
 pypdf>=4.2.0
 docx2txt>=0.8
 groq>=0.9.0
