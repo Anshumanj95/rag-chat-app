@@ -10,8 +10,4 @@ chromadb>=0.5.0
 pypdf>=4.2.0
 docx2txt>=0.8
 groq>=0.9.0
-<<<<<<< HEAD
 reportlab>=4.2.0
-=======
-reportlab>=4.2.0
->>>>>>> e358465 (fix: pin python 3.11 and package versions)
